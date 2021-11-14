@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @sakshi-kri
+- Hi there,👋
+- I'm Sakshi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java Full Stack Developer
 
