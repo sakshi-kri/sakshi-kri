@@ -1,7 +1,7 @@
 - Hi there,👋
 - I'm Sakshi
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java Full Stack Developer
+- 👀 I love coding and writing
+- 🌱 Check out my blogs at aspiringcoders.com
 
 <!---
 sakshi-kri/sakshi-kri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
